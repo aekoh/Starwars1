@@ -1,13 +1,13 @@
-# Star Wars 01
+# Star Wars 02
 
 ## File
 
-* `server1.js`
+* `server2.js`
 
 ## Instructions
 
-* Work with those around you to confirm your `server1.js` file is working. This means figuring out: what dependencies to install, how to run the file, and how to view the resulting website in your browser. This step requires you to make ZERO changes to the code file. At this point, you are just getting the file you are given to run.
+* Examine the code sent to you. Once again, run the `server2.js` file and view the page in the browser. Troubleshoot any issues that arise. Again NO CODE CHANGES required.
 
-  * Then, once you've gotten the original code to display in the browser, create a new `Obi Wan Kenobi route` to display Kenobi's information. Use the comments and the previous code in the file as a guide.
+  * Then once you have a working server instance, begin to examine the file. Try to explain to yourself and those around you what the significance of `/:character` and `req.params.character` is.
 
-  * Help those around you when done.
+  * Create a test case to check your hypothesis.
